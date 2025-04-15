@@ -35,7 +35,7 @@ git clone https://github.com/virensasalu/Segment_anything_Human_pose.git
 ### File Structure
 
 The repository is organized as follows:
-
+```
 Segment_anything_Human_pose/  
 ├── demo  
 │  ├── segment.py # Main script for segmentation  
@@ -50,7 +50,7 @@ Segment_anything_Human_pose/
 │  ├── virensasalu.json
 ├── requirements.txt # Python dependencies  
 ├── README.md # Project documentation  
-
+```
 ### Usage
 
 #### Command-Line Arguments
